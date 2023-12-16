@@ -1,0 +1,1 @@
+Para ejecutar el programa se usa el .exe que esta en la carpeta 'dist'
